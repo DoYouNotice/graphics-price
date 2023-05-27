@@ -5,7 +5,7 @@ how to use
 
 install python https://www.python.org/downloads/
  
-download script  https://github.com/DoYouNotice/graphics-price/releases/tag/1
+download script  https://github.com/DoYouNotice/graphics-price/releases/
 
 open terminal
 
