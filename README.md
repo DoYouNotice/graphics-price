@@ -23,7 +23,12 @@ example: python C:\Users\DoYouNotice\Desktop\Graphics.py
 
 
 ```
-output: Radeon RX 6600 XT:
+output: 
+Radeon RX 6650 XT:
+Cheapest price: 255,00 €
+Cost per frame: 3,19 € per frame
+
+Radeon RX 6600 XT:
 Cheapest price: 265,84 €
 Cost per frame: 3,40 € per frame
 
