@@ -10,7 +10,15 @@ download script  https://github.com/DoYouNotice/graphics-price/releases/tag/1
 open terminal
 
 type: python "location where u saved the script"
+
 example: python C:\Users\DoYouNotice\Desktop\Graphics.py
+
+
+
+
+
+
+
 
 output: Radeon RX 6600 XT:
 Cheapest price: 265,84 €
