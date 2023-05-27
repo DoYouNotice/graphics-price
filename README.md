@@ -100,3 +100,5 @@ Cheapest price: 768,99 €
 Cost per frame: 13,19 € per frame
 
 ```
+
+fps data provided by https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html
