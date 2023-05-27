@@ -4,6 +4,8 @@ cheapest graphics card price from mindfactory and cost per frame
 how to use
 
 install python https://www.python.org/downloads/
+ 
+download script  https://github.com/DoYouNotice/graphics-price/releases/tag/1
 
 open terminal
 
