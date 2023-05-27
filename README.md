@@ -8,18 +8,17 @@ install python https://www.python.org/downloads/
 download script  https://github.com/DoYouNotice/graphics-price/releases/tag/1
 
 open terminal
-
+```
 type: python "location where u saved the script"
-
 example: python C:\Users\DoYouNotice\Desktop\Graphics.py
 
+```
 
 
 
 
 
-
-
+```
 output: Radeon RX 6600 XT:
 Cheapest price: 265,84 €
 Cost per frame: 3,40 € per frame
@@ -100,4 +99,4 @@ GeForce RTX 3080:
 Cheapest price: 768,99 €
 Cost per frame: 13,19 € per frame
 
-
+```
