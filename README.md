@@ -8,6 +8,10 @@ install python https://www.python.org/downloads/
 download script  https://github.com/DoYouNotice/graphics-price/releases/tag/1
 
 open terminal
+
+```
+pip install requests beautifulsoup4
+```
 ```
 type: python "location where u saved the script"
 example: python C:\Users\DoYouNotice\Desktop\Graphics.py
